@@ -52,6 +52,7 @@ if (!prefersReducedMotion && "IntersectionObserver" in window) {
     [".offer"],
     [".route"],
     [".impact-item"],
+    [".case"],
     [".about__content > *", ".about__photo"],
     [".history__copy", ".history__figure"],
     [".faq__item"],
