@@ -1,6 +1,6 @@
 # Margarita Colombo
 
-Personal website for Margarita Colombo, Fractional CMO and AI Workflow Consultant.
+Personal website of Margarita Colombo, digital CX and MarTech transformation leader.
 
 This is a static HTML, CSS and JavaScript site deployed with Vercel.
 
